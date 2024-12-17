@@ -78,3 +78,6 @@ Business Requirements & KPIs: To ensure the dashboard met business objectives, t
 4.	Top Selling Product: The product that generated the highest revenue.
 
 Please feel free to critique my work; doing so will help me get better at future visualization projects.
+
+![image](https://github.com/user-attachments/assets/c7c28f53-aebd-4d6e-b890-62c977d65e89)
+
